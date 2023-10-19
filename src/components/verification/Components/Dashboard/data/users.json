@@ -1,0 +1,53 @@
+{
+    "users": [
+        {
+            "email": "adi123@gmail.com",
+            "totalSharedMoney": 19680,
+            "totalRecipients": 5,
+            "diffInRecipients":-2,
+            "totalRewards":3,
+            "totalSavings": 800,
+            "percentIncSavings":75,
+            "lastBudget":3300,
+            "changeBudget": 10,
+            "lastExpense":2500,
+            "totalCreditScore":612,
+            "creditStatus":"Fair",
+            "totalCoins": 995
+        },
+        {
+            "email": "rit123@gmail.com",
+            "totalSharedMoney": 20890,
+            "totalRecipients": 3,
+            "diffInRecipients":-1,
+            "totalRewards":4,
+            "totalSavings": 600,
+            "percentIncSavings":35,
+            "lastBudget":2800,
+            "changeBudget": 6,
+            "lastExpense":2100,
+            "totalCreditScore":564,
+            "creditStatus":"Fair",
+            "totalCoins": 900
+        },
+        {
+            "email": "ritik123@gmail.com",
+            "totalSharedMoney": 19680,
+            "totalRecipients": 5,
+            "diffInRecipients":-2,
+            "totalRewards":3,
+            "totalSavings": 800,
+            "percentIncSavings":75,
+            "lastBudget":3300,
+            "changeBudget": 10,
+            "lastExpense":2500,
+            "totalCreditScore":612,
+            "creditStatus":"Fair",
+            "totalCoins": 995
+        }
+
+
+
+        
+    ]
+}
